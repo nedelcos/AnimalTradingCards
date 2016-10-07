@@ -1,0 +1,49 @@
+/* add your CSS here */
+span {
+  font-weight:bold;
+}
+
+
+.golden-card{
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  width: 330px;
+  padding: 14px;
+  padding-top: 0;
+  -webkit-box-shadow: 7px 6px 2px 1px rgba(0,0,0,0.17);
+  -moz-box-shadow: 7px 6px 2px 1px rgba(0,0,0,0.17);
+  box-shadow: 7px 6px 2px 1px rgba(0,0,0,0.17);
+  margin:50px;
+  background-color: #fbfbfb;
+}
+
+#golden-img {
+  width:300px;
+}
+
+.description {
+  padding:10px;
+  border:1px solid #ddd;
+  width:300px;
+  margin-top:10px;
+  box-sizing:border-box;
+}
+
+#interesting-fact {
+  font-style: italic;
+  -webkit-margin-before: 0;
+  font-size: 0.7em;
+}
+
+#s-facts{
+  -webkit-padding-start: 0;
+  font-size: 0.7em;
+}
+
+.s-fact {
+  list-style-type: none;
+}
+
+#golden-desc {
+  font-size:0.7em;
+}
